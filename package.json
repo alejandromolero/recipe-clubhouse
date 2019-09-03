@@ -1,0 +1,13 @@
+{
+  "id": "clubhouse",
+  "name": "clubhouse",
+  "version": "1.0.0",
+  "description": "Clubhouse.io",
+  "main": "index.js",
+  "author": "Alex Molero<alejandro.molero@cabify.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alejandromolero/recipe-clubhouse",
+  "config": {
+    "serviceURL": "https://app.clubhouse.io/login"
+  }
+}
